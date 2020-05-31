@@ -6,3 +6,4 @@ extend
 think
 build.php
 runtime
+.gitignore

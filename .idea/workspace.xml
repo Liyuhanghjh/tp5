@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2705ae0b-c624-4e51-aa5d-d9509e4d1d2d" name="Default Changelist" comment="" />
+    <list default="true" id="2705ae0b-c624-4e51-aa5d-d9509e4d1d2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tom.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,9 +13,7 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -52,24 +54,39 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lyh" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1biBoTnSwmGHSltjOz4ERpm788j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="js.last.introduce.type" value="VAR" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/static/image" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -84,16 +101,9 @@
       <recent name="D:\project\tp5\application\admin\view\index" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="setting" />
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -123,12 +133,25 @@
       <workItem from="1590308744537" duration="15000" />
       <workItem from="1590331072900" duration="3965000" />
       <workItem from="1590414589375" duration="8205000" />
-      <workItem from="1590933285595" duration="402000" />
+      <workItem from="1590933285595" duration="2842000" />
+      <workItem from="1590937216102" duration="1176000" />
     </task>
+    <task id="LOCAL-00001" summary="后台初始化">
+      <created>1590933810981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590933810981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="后台初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="后台初始化" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="255" key="#Composer" timestamp="1589106670618">
@@ -143,14 +166,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="746" y="299" key="#HTTP_Proxy/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589724882089" />
-    <state x="567" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589725353900">
+    <state x="452" y="96" key="#Scopes" timestamp="1590935283246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="452" y="96" key="#Scopes/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590935283246" />
+    <state x="567" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590935433046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="567" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590935433046" />
     <state x="567" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589725353900" />
     <state x="652" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589902285759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="652" y="306" key="#com.intellij.fileTypes.FileTypeChooser/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589902285759" />
+    <state x="1086" y="294" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1590937742205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1086" y="294" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590937742205" />
     <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590417645529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -159,11 +191,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="218" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590419177100" />
-    <state x="651" y="150" key="FileChooserDialogImpl" timestamp="1590933675377">
+    <state x="423" y="41" key="CommitChangelistDialog2" timestamp="1590933809110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="41" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590933809110" />
+    <state x="651" y="150" key="FileChooserDialogImpl" timestamp="1590935422256">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589105252743" />
-    <state x="651" y="150" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590933675377" />
+    <state x="651" y="150" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590935422256" />
     <state x="756" y="240" key="NewPhpClassDialog" timestamp="1590419406965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -173,43 +209,44 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="429" key="NewPhpFileDialog/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589901507636" />
-    <state x="461" y="157" key="SettingsEditor" timestamp="1590933688210">
+    <state x="813" y="164" key="RollbackChangesDialog" timestamp="1590935101136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="813" y="164" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590935101136" />
+    <state x="461" y="157" key="SettingsEditor" timestamp="1590937744945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="106" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589848593251" />
-    <state x="461" y="157" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590933688210" />
+    <state x="461" y="157" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590937744945" />
     <state x="461" y="157" key="SettingsEditor/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590333787428" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590937446282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590937446282" />
     <state x="510" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1590331074889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589848576944" />
     <state x="510" y="269" key="com.intellij.ide.util.TipDialog/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590331074889" />
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590934857581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590934857581" />
     <state x="574" y="29" width="771" height="981" key="find.popup" timestamp="1590333471847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="574" y="29" width="771" height="981" key="find.popup/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590333471847" />
-    <state x="724" y="357" key="git4idea.rebase.GitRebaseDialog" timestamp="1590933699713">
+    <state x="724" y="357" key="git4idea.rebase.GitRebaseDialog" timestamp="1590934697446">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="724" y="357" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590933699713" />
+    <state x="724" y="357" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590934697446" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1590935524535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590935524535" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1589901531404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589901531404" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
