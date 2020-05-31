@@ -1,9 +1,10 @@
 .idea
 composer.lock
 *.log
-vendor
-extend
+/vendor
+/extend
 think
 build.php
-runtime
+/runtime
 .gitignore
+/thinkphp

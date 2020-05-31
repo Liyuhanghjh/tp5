@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:tp5" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2705ae0b-c624-4e51-aa5d-d9509e4d1d2d" name="Default Changelist" comment="">
+    <list default="true" id="2705ae0b-c624-4e51-aa5d-d9509e4d1d2d" name="Default Changelist" comment="后台初始化">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tom.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +151,7 @@
       <workItem from="1590331072900" duration="3965000" />
       <workItem from="1590414589375" duration="8205000" />
       <workItem from="1590933285595" duration="2842000" />
-      <workItem from="1590937216102" duration="1176000" />
+      <workItem from="1590937216102" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="后台初始化">
       <created>1590933810981</created>
@@ -143,11 +160,29 @@
       <option name="project" value="LOCAL" />
       <updated>1590933810981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="后台初始化">
+      <created>1590939302455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590939302455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="后台初始化" />
@@ -219,10 +254,10 @@
     <state x="106" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589848593251" />
     <state x="461" y="157" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590937744945" />
     <state x="461" y="157" key="SettingsEditor/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590333787428" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590937446282">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590939414369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590937446282" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590939414369" />
     <state x="510" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1590331074889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
