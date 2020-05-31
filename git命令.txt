@@ -1,0 +1,42 @@
+GIT
+一、命令大全
+
+	1.创建文件：touch
+	打开终端工具，切换到项目目录，使用touch创建文件或文件夹
+	eg: touch index.php   表示在根目录创建一个index.php文件。想在那个目录下创建就得切换到那个目录下
+
+	2.初始化  init
+	使用git init 初始化文件目录
+
+	3.查看当前项目状态： status
+	使用 git status 查看当前项目状态
+
+	4.GIT版本信息：--version
+	使用git --version 查看当前GIT版本信息
+
+	5.配置：config
+	配置用户名： git config --global user.name 'ifyou'
+	配置邮箱： git config --global user.email 'liyuhanghjh@163.com'
+
+	6.存入缓存区:add
+	使用git add <file> 把修改的数据提交到缓存区
+
+		6.1添加一类文件：例如添加所有html文件
+			git add *.html  
+
+		6.2添加全部文件
+			git add .	
+
+	7.存储到仓库：commit
+	使用 git commit 把缓存区的文件提交到仓库
+	git commit -m 'init初始化'
+
+	8.创建分支：branch
+	使用  git branch <分支名称>  eg: git branch lyh
+
+
+	9.切换分支：checkout
+	使用 git checkout lyh 表示已经切换到lyh分支
+
+	10.忽略：gitignore
+

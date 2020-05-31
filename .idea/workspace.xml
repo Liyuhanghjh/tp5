@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2705ae0b-c624-4e51-aa5d-d9509e4d1d2d" name="Default Changelist" comment="后台初始化">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2705ae0b-c624-4e51-aa5d-d9509e4d1d2d" name="Default Changelist" comment="后台初始化" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +100,7 @@
     <property name="database.console.LAST_STATE" value="false" />
     <property name="js.last.introduce.type" value="VAR" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -151,7 +148,7 @@
       <workItem from="1590331072900" duration="3965000" />
       <workItem from="1590414589375" duration="8205000" />
       <workItem from="1590933285595" duration="2842000" />
-      <workItem from="1590937216102" duration="1392000" />
+      <workItem from="1590937216102" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="后台初始化">
       <created>1590933810981</created>
@@ -167,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590939302455</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="后台初始化">
+      <created>1590939540845</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590939540845</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,16 +252,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="813" y="164" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590935101136" />
-    <state x="461" y="157" key="SettingsEditor" timestamp="1590937744945">
+    <state x="461" y="157" key="SettingsEditor" timestamp="1590939656381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="106" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589848593251" />
-    <state x="461" y="157" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590937744945" />
+    <state x="461" y="157" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590939656381" />
     <state x="461" y="157" key="SettingsEditor/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590333787428" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590939414369">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590939560617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590939414369" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590939560617" />
     <state x="510" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1590331074889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
