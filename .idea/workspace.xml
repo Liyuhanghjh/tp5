@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2705ae0b-c624-4e51-aa5d-d9509e4d1d2d" name="Default Changelist" comment="后台初始化" />
+    <list default="true" id="2705ae0b-c624-4e51-aa5d-d9509e4d1d2d" name="Default Changelist" comment="后台初始化">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/admin/view/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/view/common/header.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +71,6 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="lyh" />
@@ -81,6 +78,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/workerman/workerman" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-queue" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-installer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-oracle" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-mongo" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-worker" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-migration" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-image" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1biBoTnSwmGHSltjOz4ERpm788j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -187,6 +199,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="后台初始化" />
@@ -258,10 +271,11 @@
     <state x="106" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589848593251" />
     <state x="461" y="157" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590939656381" />
     <state x="461" y="157" key="SettingsEditor/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590333787428" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590939560617">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="452" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590973549986">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590939560617" />
+    <state x="452" y="190" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590973549986" />
     <state x="510" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1590331074889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
