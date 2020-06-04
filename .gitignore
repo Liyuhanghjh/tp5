@@ -1,4 +1,3 @@
-.idea
 composer.lock
 *.log
 /vendor
@@ -6,6 +5,5 @@ composer.lock
 think
 build.php
 /runtime
-.gitignore
 /thinkphp
 .idea

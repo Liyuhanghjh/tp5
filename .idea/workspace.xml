@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2705ae0b-c624-4e51-aa5d-d9509e4d1d2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +112,7 @@
     <property name="database.console.LAST_STATE" value="false" />
     <property name="js.last.introduce.type" value="VAR" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -132,7 +133,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\liyuh\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -160,7 +161,10 @@
       <workItem from="1590414589375" duration="8205000" />
       <workItem from="1590933285595" duration="2842000" />
       <workItem from="1590937216102" duration="1540000" />
-      <workItem from="1591067879454" duration="451000" />
+      <workItem from="1591067879454" duration="1432000" />
+      <workItem from="1591098328888" duration="581000" />
+      <workItem from="1591146801041" duration="17000" />
+      <workItem from="1591266341054" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="后台初始化">
       <created>1590933810981</created>
@@ -264,6 +268,10 @@
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589105252743" />
     <state x="651" y="150" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590935422256" />
+    <state x="750" y="385" key="Github.CreatePullRequestDialog" timestamp="1591098362724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="750" y="385" key="Github.CreatePullRequestDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1591098362724" />
     <state x="756" y="240" key="NewPhpClassDialog" timestamp="1590419406965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -277,28 +285,28 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="813" y="164" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590935101136" />
-    <state x="461" y="159" key="SettingsEditor" timestamp="1591067953861">
+    <state x="461" y="159" key="SettingsEditor" timestamp="1591069747386">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="106" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589848593251" />
     <state x="461" y="157" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590939656381" />
-    <state x="461" y="159" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1591067953861" />
+    <state x="461" y="159" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1591069747386" />
     <state x="461" y="157" key="SettingsEditor/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590333787428" />
-    <state x="452" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590973689781">
+    <state x="452" y="190" key="Vcs.Push.Dialog.v2" timestamp="1591069540744">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590939560617" />
-    <state x="452" y="190" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590973689781" />
+    <state x="452" y="190" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1591069540744" />
     <state x="510" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1590331074889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589848576944" />
     <state x="510" y="269" key="com.intellij.ide.util.TipDialog/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1590331074889" />
-    <state x="719" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591068331390">
+    <state x="719" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591098333925">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1590934857581" />
-    <state x="719" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1591068331390" />
+    <state x="719" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1591098333925" />
     <state x="574" y="29" width="771" height="981" key="find.popup" timestamp="1590333471847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
