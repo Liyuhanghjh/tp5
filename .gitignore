@@ -6,4 +6,4 @@ think
 build.php
 /runtime
 /thinkphp
-.idea
+/.idea
