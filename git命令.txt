@@ -40,3 +40,35 @@ GIT
 
 	10.忽略：gitignore
 
+	11.git 删除分支
+	    11.1、删除本地分支：git branch -d 分支名称
+	    11.2、删除线上分支：git push origin --delete 分支名称
+
+	12.分支信息
+	    12.1、所有分支信息：git branch -a
+	    12.2、当前分支信息：git branch
+
+	13.初始化以及主机origin绑定
+	    git push -u origin master  初始化执行该操作，以后就直接git push即可，不用再输如后边的信息
+
+	14.github创建仓库初始化页面：
+	    14.1、在命令行上创建一个新的存储库
+            git init  初始化仓库  在项目根目录下生成隐藏文件.git  可以打开.git/config查看配置信息
+            git add README.md 添加项目说明文件
+            git commit -m "first commit"  将初次添加的文件添加到本地缓冲区
+            git remote add origin https://github.com/Liyuhanghjh/tp6.git     绑定远程仓库
+            git push -u origin master  将添加的文件从本地缓冲区提交到远程仓库
+
+	    14.2、从命令行推送现有存储库
+	        git remote add origin https://github.com/Liyuhanghjh/tp6.git  绑定远程仓库
+            git push -u origin master  将添加的文件从本地缓冲区提交到远程仓库
+
+    15.git生成公钥 私钥
+        15.1、生成命令
+        进入到根目录：执行ssh-keygen -t rsa -C "nideyouxiang@xxx.com"  或者找到git安装目录，运行bash.exe
+        再输入前面说的命令即可
+        15.2、仓库配置公钥
+        用户->setting->SSH and GPG keys->new
+        15.3需要把.ssh中生成的私钥重新复制并生成以.ppk为后缀的文件
+
+
